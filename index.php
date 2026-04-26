@@ -410,11 +410,11 @@ $projects = [
                                 <div class="row g-4">
                                     <div class="col-md-6">
                                         <label class="form-label text-muted fw-bold text-uppercase ms-1" style="font-size: 0.8rem; letter-spacing: 1px;">Name</label>
-                                        <input class="form-control" type="text" name="name" value="<?php echo htmlspecialchars($_POST['name'] ?? ''); ?>" placeholder="John Doe">
+                                        <input class="form-control" type="text" name="name" value="<?php echo htmlspecialchars($_POST['name'] ?? ''); ?>" placeholder="Jay-ar S. De Guzman">
                                     </div>
                                     <div class="col-md-6">
                                         <label class="form-label text-muted fw-bold text-uppercase ms-1" style="font-size: 0.8rem; letter-spacing: 1px;">Email</label>
-                                        <input class="form-control" type="email" name="email" value="<?php echo htmlspecialchars($_POST['email'] ?? ''); ?>" placeholder="john@example.com">
+                                        <input class="form-control" type="email" name="email" value="<?php echo htmlspecialchars($_POST['email'] ?? ''); ?>" placeholder="jrsaturno66@gmail.com">
                                     </div>
                                     <div class="col-12">
                                         <label class="form-label text-muted fw-bold text-uppercase ms-1" style="font-size: 0.8rem; letter-spacing: 1px;">Subject</label>
